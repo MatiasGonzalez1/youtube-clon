@@ -16,7 +16,7 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'Rock', icon: <CodeIcon />, },
+  { name: 'ProCanal', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
@@ -37,6 +37,6 @@ export const categories = [
 export const demoThumbnailUrl = 'https://imgs.search.brave.com/ccjXB4f5oWeeKc94GLZ882Z-WVpxOYxEB7RVu2GSXgg/rs:fit:840:535:1/g:ce/aHR0cHM6Ly93d3cu/Y2xpcGFydG1heC5j/b20vcG5nL21pZGRs/ZS81OS01OTc3Mzlf/d29sZi1oZWFkLWxv/Z28tcG5nLnBuZw';
 export const demoChannelUrl = '/channel/UCBFYMjHH_faM7uBMAHsXl6g';
 export const demoVideoUrl = '/video/Ohp2t_aubMs'; 
-export const demoChannelTitle = 'Rock';
-export const demoVideoTitle = 'Video MgDev';
-export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
+export const demoChannelTitle = 'Matias Gonzalez';
+export const demoVideoTitle = 'Matias Gonzalez';
+export const demoProfilePicture = 'https://imgs.search.brave.com/FhBpvuK7UFI-eXb90ORMSRCrzgbykdUs6J6xmceKdDw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy8xNDAwLzM5Njg3/NTU5MTM2Nzk5LjVh/MTY3N2NkM2FhOGIu/cG5n'
